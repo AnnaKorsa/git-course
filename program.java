@@ -51,6 +51,7 @@ public class program {
 //  		System.out.println(factor(5)); // 120.0
 //  }}
 
+//  Это тестовое задание!
 
 // import java.time.LocalTime;
 // import java.util.Scanner;
